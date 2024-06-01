@@ -18,7 +18,7 @@ public:
 };
 
 int main(){
-  Emp e1=Emp("sak","petal",18);
+  Emp e1=Emp("fso","petal",18);
   e1.intro();
 return 0;
 }
